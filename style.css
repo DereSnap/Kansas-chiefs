@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+
+    text-decoration: none ; 
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    padding: 12px;
+    font-size: 18px;
+
+}
+
+li a:hover {
+    background-color: gold;
+}
